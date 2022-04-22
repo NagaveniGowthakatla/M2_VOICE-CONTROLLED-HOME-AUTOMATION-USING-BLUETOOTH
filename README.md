@@ -31,6 +31,7 @@
  |1|Requirements|text.file|
  |2|Design|readme.md|
  |3|Implementation|main.c|
+ ![](https://github.com/NagaveniGowthakatla/M2_VOICE-CONTROLLED-HOME-AUTOMATION-USING-BLUETOOTH/actions/runs/2209304655)
  
  
  
