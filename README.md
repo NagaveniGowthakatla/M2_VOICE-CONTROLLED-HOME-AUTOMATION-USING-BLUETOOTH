@@ -31,6 +31,6 @@
  |1|Requirements|text.file|
  |2|Design|readme.md|
  |3|Implementation|main.c|
- ## SDLC ACTIVITY:-
+ 
  
  
