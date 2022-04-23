@@ -32,7 +32,8 @@
  |2|Design|readme.md|
  |3|Implementation|main.c|
  ## SDLC ACTIVITY:-
- ![](https://github.com/NagaveniGowthakatla/M2_VOICE-CONTROLLED-HOME-AUTOMATION-USING-BLUETOOTH/actions/runs/2209304655)
+ ![]()
  
- 
+ ![2022-04-22](https://user-images.githubusercontent.com/101544562/164874122-9bca52e7-59b8-438e-b1af-ffd59dfe2bb8.png)
+
  
