@@ -38,5 +38,6 @@
  ![](https://api.codiga.io/project/33032/score/svg)
  ![](https://api.codiga.io/project/33032/status/svg)
  ![](https://app.codacy.com/gh/NagaveniGowthakatla/M2_VOICE-CONTROLLED-HOME-AUTOMATION-USING-BLUETOOTH/dashboard)
+ ![](![2022-04-22](https://user-images.githubusercontent.com/101544562/164874122-9bca52e7-59b8-438e-b1af-ffd59dfe2bb8.png))
 
  
